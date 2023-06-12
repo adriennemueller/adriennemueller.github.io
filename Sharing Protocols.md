@@ -5,9 +5,8 @@ There are several ways you can choose to share your protocol - or study plan.
 ## **Sharing as Pre-Registration**
 
 <aside>
-➕ **Pros:** This is the most ‘official’-looking of the options; also the pre-registration will be associated with it’s own, referencable, DOI.
+➕ **Pros:** This is the most ‘official’-looking of the options; also the pre-registration will be associated with it’s own, referencable, DOI.  
 </aside>
-
 
 <aside>
 ➖ **Cons:** Represents a commitment to follow-through with the study. If a study has been pre-registered, someone may approach the authors and ask about the status of the study. If students later decide they do not want to be associated with the project, the pre-registration cannot as easily be taken down.
@@ -25,9 +24,8 @@ There are several ways you can choose to share your protocol - or study plan.
 ## **Sharing as Public Protocol**
 
 <aside>
-➕ **Pros:** Does not imply the same level of commitment as a pre-registration, but does look more professional than the shared GoogleDoc. Can be referenced by the OSF project’s DOI.
+➕ **Pros:** Does not imply the same level of commitment as a pre-registration, but does look more professional than the shared GoogleDoc. Can be referenced by the OSF project’s DOI.  
 </aside>
-
 
 <aside>
 ➖ **Cons:** If students later decide they do not want to be associated with the project, the public protocol cannot as easily be taken down. Does not have it’s own DOI.
@@ -47,9 +45,8 @@ Examples: [https://osf.io/d8ewm/](https://osf.io/d8ewm/) [https://osf.io/zcrju/]
 ## Sharing as a **Time-stamped Public Protocol on GoogleDocs**
 
 <aside>
-➕ **Pros:** Does not imply the same level of commitment as a public protocol or pre-registration. If students later decide they do not want to be associated with the project, the protocol can simply be taken down. Protocols or pre-registrations on OSF cannot easily be taken down.
+➕ **Pros:** Does not imply the same level of commitment as a public protocol or pre-registration. If students later decide they do not want to be associated with the project, the protocol can simply be taken down. Protocols or pre-registrations on OSF cannot easily be taken down.  
 </aside>
-
 
 <aside>
 ➖ **Cons:** Does not offer a DOI and looks slightly less professional than a pre-registration using a website like OSF.
