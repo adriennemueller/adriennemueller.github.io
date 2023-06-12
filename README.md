@@ -38,11 +38,11 @@ The MAvERICS Progam involves some planning before the program officially starts,
 # Roadmap
 
 <aside>
-📌 **Blue call-out boxes** denote project milestones.
+📌 denote project milestones.
 </aside>
 
 <aside>
-💡 **Green call-out boxes** denote recommendations from Team Leads
+💡 denote recommendations from Team Leads
 </aside>
 
 ### **Pre-Program**
@@ -299,6 +299,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
     
     Students are encouraged to present their work at conferences in their field - such as the AHA annual conference.
     Some specialist conferences for metascience and open research practices may also be suitable:
-    [- Research 2 Reader Conference](https://r2rconf.com/)
-    [- PUBMET](https://pubmet2022.unizd.hr/)
-    [- AIMOS](https://aimos.community/)
+    - [- Research 2 Reader Conference](https://r2rconf.com/)
+    - [- PUBMET](https://pubmet2022.unizd.hr/)
+    - [- AIMOS](https://aimos.community/)
