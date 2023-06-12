@@ -9,7 +9,7 @@ There are several ways you can choose to share your protocol - or study plan.
 </aside>
 
 <aside>
-➖ Cons: Represents a commitment to follow-through with the study. If a study has been pre-registered, someone may approach the authors and ask about the status of the study. If students later decide they do not want to be associated with the project, the pre-registration cannot as easily be taken down.<br>
+➖ Cons: Represents a commitment to follow-through with the study. If a study has been pre-registered, someone may approach the authors and ask about the status of the study. If students later decide they do not want to be associated with the project, the pre-registration cannot as easily be taken down.<br><br>
 </aside>
 
 1. Create an OSF account on [http://osf.io/](http://osf.io/)
