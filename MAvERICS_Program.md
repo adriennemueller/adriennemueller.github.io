@@ -1,8 +1,8 @@
-# MAvERICS
+# MAvERICS Program
 
 **Metascience Analyses and Explorations of Reproducibility In Cardiovascular Science**
 
-Small teams of summer students work under the guidance of a CVI early career scientist to conduct a metascience study in the field of cardiovascular research. Teams use open and reproducible methods to survey published cardiovascular articles about how research is being conducted. Teams ultimately create a database of screened articles and a public protocol, or pre-registration, about their study.
+Small teams of summer students work under the guidance of a CVI early career scientist to conduct a metascience study in the field of cardiovascular research. Teams use open and reproducible methods to survey published cardiovascular articles about how research is being conducted. Teams ultimately create a database of screened articles and a public protocol, or pre-registration, about their study. [More information about the original MAvERICS Program can be found here.](https://stanfordcvi.notion.site/MAvERICS-21f4fa7e62744e6aba210c1382fa47ae)
 
 ### **What is Metascience?**
 >Metascience (also known as meta-research) is the use of scientific methodology to study science itself. Metascience seeks to increase the quality of scientific research while reducing inefficiency. It is also known as "research on research" and "the science of science", as it uses research methods to study how research is done and find where improvements can be made. 
