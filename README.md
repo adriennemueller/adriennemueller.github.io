@@ -105,7 +105,7 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 **During the Meeting**
 
-1. Discuss the [options for pre-registration, and public protocols](Sharing%20Protocols.md) and see which option people are leaning towards. Remind students that the final decision to create a pre-registration or a public protocol can be made at the end of the program - the content is the same for both.
+1. Discuss the [options for pre-registration, and public protocols](Sharing_Protocols.md) and see which option people are leaning towards. Remind students that the final decision to create a pre-registration or a public protocol can be made at the end of the program - the content is the same for both.
 2. Team lead should introduce the shared protocol document (GoogleDoc) and explain how each student will put their drafts for each section into the document
 3. At least two students each live-screen an article. The team should address questions as they come up and update the decision log as needed.
 4. Discuss any outstanding questions or ideas that students had during the week. Update the data dictionary and decision log as needed.
@@ -117,7 +117,7 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 **Tasks for Week 3**
 
 1. Each student should screen 10 articles and make a note of any questions or ideas they have for discussion. Questions can also be put in the shared slack channel.
-2. If they plan to use OSF, the team lead should create an OSF project for the study and fill in the summary, contributors, and other information. Find out more about [setting up OSF for sharing a protocol](Sharing%20Protocols.md).
+2. If they plan to use OSF, the team lead should create an OSF project for the study and fill in the summary, contributors, and other information. Find out more about [setting up OSF for sharing a protocol](Sharing_Protocols.md).
 3. All students come up with a 7-15 word title for the project and record it in the shared protocol document.
 
 ### **Week 3**
