@@ -2,6 +2,8 @@
 
 This page walks through the responsibilities of those participating in the [MAvERICS Program](MAvERICS_Program.md) and a roadmap that team leads and students can use to guide their efforts on their Cardiovascular Metascience project.
 
+[![DOI](https://zenodo.org/badge/652401071.svg)](https://zenodo.org/badge/latestdoi/652401071)
+
 
 
 ![MAvERICS Overview](MAvERICS%20Overview.png)
