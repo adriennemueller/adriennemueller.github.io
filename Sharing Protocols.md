@@ -9,7 +9,7 @@ There are several ways you can choose to share your protocol - or study plan.
 </aside>
 
 <aside>
-➖ **Cons:** Represents a commitment to follow-through with the study. If a study has been pre-registered, someone may approach the authors and ask about the status of the study. If students later decide they do not want to be associated with the project, the pre-registration cannot as easily be taken down.
+➖ **Cons:** Represents a commitment to follow-through with the study. If a study has been pre-registered, someone may approach the authors and ask about the status of the study. If students later decide they do not want to be associated with the project, the pre-registration cannot as easily be taken down.<br>
 </aside>
 
 1. Create an OSF account on [http://osf.io/](http://osf.io/)
@@ -28,7 +28,7 @@ There are several ways you can choose to share your protocol - or study plan.
 </aside>
 
 <aside>
-➖ **Cons:** If students later decide they do not want to be associated with the project, the public protocol cannot as easily be taken down. Does not have it’s own DOI.
+➖ **Cons:** If students later decide they do not want to be associated with the project, the public protocol cannot as easily be taken down. Does not have it’s own DOI.<br>
 </aside>
 
 Examples: [https://osf.io/d8ewm/](https://osf.io/d8ewm/) [https://osf.io/zcrju/](https://osf.io/zcrju/)
@@ -49,5 +49,5 @@ Examples: [https://osf.io/d8ewm/](https://osf.io/d8ewm/) [https://osf.io/zcrju/]
 </aside>
 
 <aside>
-➖ **Cons:** Does not offer a DOI and looks slightly less professional than a pre-registration using a website like OSF.
+➖ **Cons:** Does not offer a DOI and looks slightly less professional than a pre-registration using a website like OSF.<br>
 </aside>
