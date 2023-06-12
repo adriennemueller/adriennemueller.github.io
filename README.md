@@ -1,6 +1,8 @@
 # MAvERICS Roadmap
 
-This page walks through the responsibilities of those participating in the MAvERICS Program and a roadmap that team leads and students can use to guide their efforts on their Cardiovascular Metascience project.
+This page walks through the responsibilities of those participating in the [MAvERICS Program](MAvERICS_Program.md) and a roadmap that team leads and students can use to guide their efforts on their Cardiovascular Metascience project.
+
+
 
 ![MAvERICS Overview](MAvERICS%20Overview.png)
 The MAvERICS Progam involves some planning before the program officially starts, followed by 10 weeks of screening papers and and preparing a public protocol. Throughout the summer, students in the program will attend workshops and seminars on topics relevant to metascience studies.
