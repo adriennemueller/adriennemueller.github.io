@@ -1,7 +1,3 @@
----
-title: Sharing Protocols
----
-
 # **Sharing Protocols**
 
 There are several ways you can choose to share your protocol - or study plan. 
