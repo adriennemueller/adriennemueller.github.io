@@ -56,8 +56,9 @@ Before the program starts, team leads should think of a research question they w
 </aside>
 
 <aside>
-💡 In choosing a project, try to approach your area of interest from a position of inquiry and not criticism. The more critical the approach - the more challenging it will be to share the study results.
+💡 In choosing a project, try to approach your area of interest from a position of inquiry and not criticism. The more critical the approach - the more challenging it will be to share the study results.<br>
 </aside>
+
 
 **Prepare Articles Database and Data Dictionary for Screening** 
 
@@ -92,13 +93,13 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 1. Each student screens 5 articles, filling in the database as they do so.
 2. Students should keep track of questions they have during screening and ideas they have for additional questions
+3. If applicable, team leads should schedule a meeting with their faculty advisor.
 
 <aside>
 💡 Team leads should also expect to spend about 3-5 hours a week on the project during the 10-week program.
 
 </aside>
 
-1. If applicable, team leads should schedule a meeting with their faculty advisor.
 
 ### **Week 2**
 
