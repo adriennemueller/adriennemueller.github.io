@@ -111,8 +111,7 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 4. Discuss any outstanding questions or ideas that students had during the week. Update the data dictionary and decision log as needed.
 
 <aside>
-💡 Start with a hypothesis, but allow for some modification and/or secondary hypotheses when discussing your research question with the students.
-
+💡 Start with a hypothesis, but allow for some modification and/or secondary hypotheses when discussing your research question with the students.<br>
 </aside>
 
 **Tasks for Week 3**
