@@ -6,12 +6,11 @@ There are several ways you can choose to share your protocol - or study plan.
 
 <aside>
 ➕ **Pros:** This is the most ‘official’-looking of the options; also the pre-registration will be associated with it’s own, referencable, DOI.
-
 </aside>
+
 
 <aside>
 ➖ **Cons:** Represents a commitment to follow-through with the study. If a study has been pre-registered, someone may approach the authors and ask about the status of the study. If students later decide they do not want to be associated with the project, the pre-registration cannot as easily be taken down.
-
 </aside>
 
 1. Create an OSF account on [http://osf.io/](http://osf.io/)
@@ -27,12 +26,11 @@ There are several ways you can choose to share your protocol - or study plan.
 
 <aside>
 ➕ **Pros:** Does not imply the same level of commitment as a pre-registration, but does look more professional than the shared GoogleDoc. Can be referenced by the OSF project’s DOI.
-
 </aside>
+
 
 <aside>
 ➖ **Cons:** If students later decide they do not want to be associated with the project, the public protocol cannot as easily be taken down. Does not have it’s own DOI.
-
 </aside>
 
 Examples: [https://osf.io/d8ewm/](https://osf.io/d8ewm/) [https://osf.io/zcrju/](https://osf.io/zcrju/)
@@ -50,10 +48,9 @@ Examples: [https://osf.io/d8ewm/](https://osf.io/d8ewm/) [https://osf.io/zcrju/]
 
 <aside>
 ➕ **Pros:** Does not imply the same level of commitment as a public protocol or pre-registration. If students later decide they do not want to be associated with the project, the protocol can simply be taken down. Protocols or pre-registrations on OSF cannot easily be taken down.
-
 </aside>
+
 
 <aside>
 ➖ **Cons:** Does not offer a DOI and looks slightly less professional than a pre-registration using a website like OSF.
-
 </aside>
