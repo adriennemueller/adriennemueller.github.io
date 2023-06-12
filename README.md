@@ -2,13 +2,8 @@
 
 This page walks through the responsibilities of those participating in the MAvERICS Program and a roadmap that team leads and students can use to guide their efforts on their Cardiovascular Metascience project.
 
-[**Sharing Protocols**](MAvERICS%20Roadmap%20e8ea0e314fc7409b96d75fe396c46551/Sharing%20Protocols%20a5a32f0cf173485cb9c7fa310e91cd3f.md)
-
-[What happened in 2021?](https://www.notion.so/What-happened-in-2021-aef3612c96294513b90d6a773231d1ae?pvs=21)
-
-[What happened in 2022?](https://www.notion.so/What-happened-in-2022-c322f3859d4f4ba3863a0f50af40ecb4?pvs=21)
-
-![The MAvERICS Progam involves some planning before the program officially starts, followed by 10 weeks of screening papers and and preparing a public protocol. Throughout the summer, students in the program will attend workshops and seminars on topics relevant to metascience studies.](MAvERICS%20Roadmap%20e8ea0e314fc7409b96d75fe396c46551/Screen_Shot_2022-04-17_at_10.42.42_AM.png)
+![MAvERICS Overview](MAvERICS%20Overview.png)
+The MAvERICS Progam involves some planning before the program officially starts, followed by 10 weeks of screening papers and and preparing a public protocol. Throughout the summer, students in the program will attend workshops and seminars on topics relevant to metascience studies.
 
 The MAvERICS Progam involves some planning before the program officially starts, followed by 10 weeks of screening papers and and preparing a public protocol. Throughout the summer, students in the program will attend workshops and seminars on topics relevant to metascience studies.
 
@@ -44,12 +39,10 @@ The MAvERICS Progam involves some planning before the program officially starts,
 
 <aside>
 📌 **Blue call-out boxes** denote project milestones.
-
 </aside>
 
 <aside>
 💡 **Green call-out boxes** denote recommendations from Team Leads
-
 </aside>
 
 ### **Pre-Program**
@@ -60,12 +53,10 @@ Before the program starts, team leads should think of a research question they w
 
 <aside>
 💡 Talk to a faculty advisor - whether one you have connected with through the MAvERICS Program or your PI - early on in the process. They have a lot of experience and can help you shape questions that will be easier to get published if you end up pursuing the project to publication.
-
 </aside>
 
 <aside>
 💡 In choosing a project, try to approach your area of interest from a position of inquiry and not criticism. The more critical the approach - the more challenging it will be to share the study results.
-
 </aside>
 
 **Prepare Articles Database and Data Dictionary for Screening** 
@@ -80,7 +71,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 📌 By the time the program starts on June 1st, team leads should have an idea of their research question, a database of articles to screen, and a data dictionary to guide the screening process.
-
 </aside>
 
 ### **Week 1**
@@ -93,8 +83,8 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
     - An approximate timeline of what the next 10 weeks will look like
     - How the project could continue and how authorship would work if the team tries to pursue a paper (see F.A.Q. below)
     - The responsibilities of everyone on the team:
-        - Students - screening, thinking about the problem, asking questions as they arise, drafting sections of the preregistration
-        - Lead - setting deadlines, checking screening, helping resolve ambiguities with the screening, synthesizing the draft into final pre-registration
+        - Students: screening, thinking about the problem, asking questions as they arise, drafting sections of the preregistration
+        - Lead: setting deadlines, checking screening, helping resolve ambiguities with the screening, synthesizing the draft into final pre-registration
 3. Team lead gives a tour of the screening database, the data dictionary, and the decision log
 4. Team Lead demos screening 1 article and filling in the database.
 
@@ -114,7 +104,7 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 **During the Meeting**
 
-1. Discuss the [options for pre-registration, and public protocols](MAvERICS%20Roadmap%20e8ea0e314fc7409b96d75fe396c46551/Sharing%20Protocols%20a5a32f0cf173485cb9c7fa310e91cd3f.md) and see which option people are leaning towards. Remind students that the final decision to create a pre-registration or a public protocol can be made at the end of the program - the content is the same for both.
+1. Discuss the [options for pre-registration, and public protocols](Sharing%20Protocols.md) and see which option people are leaning towards. Remind students that the final decision to create a pre-registration or a public protocol can be made at the end of the program - the content is the same for both.
 2. Team lead should introduce the shared protocol document (GoogleDoc) and explain how each student will put their drafts for each section into the document
 3. At least two students each live-screen an article. The team should address questions as they come up and update the decision log as needed.
 4. Discuss any outstanding questions or ideas that students had during the week. Update the data dictionary and decision log as needed.
@@ -127,7 +117,7 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 **Tasks for Week 3**
 
 1. Each student should screen 10 articles and make a note of any questions or ideas they have for discussion. Questions can also be put in the shared slack channel.
-2. If they plan to use OSF, the team lead should create an OSF project for the study and fill in the summary, contributors, and other information. Find out more about [setting up OSF for sharing a protocol](MAvERICS%20Roadmap%20e8ea0e314fc7409b96d75fe396c46551/Sharing%20Protocols%20a5a32f0cf173485cb9c7fa310e91cd3f.md).
+2. If they plan to use OSF, the team lead should create an OSF project for the study and fill in the summary, contributors, and other information. Find out more about [setting up OSF for sharing a protocol](Sharing%20Protocols.md).
 3. All students come up with a 7-15 word title for the project and record it in the shared protocol document.
 
 ### **Week 3**
@@ -146,14 +136,12 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 💡 The students should appreciate that they should be doing the heavy lifting of the screening. The time of the team lead should be spent making sure that the students can screen correctly.
-
 </aside>
 
 1. Team Leads should review 2-3 articles screened by each student to ensure the screening is accurate.
 
 <aside>
 📌 After the week 3 meeting, teams should have finished refining the data dictionary and be prepared to start screening in earnest.
-
 </aside>
 
 ### **Week 4**
@@ -173,7 +161,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 💡 Team leads should expect there to be some variability in the students’ contributions. Because team leads are not giving students a grade or other reward, it can be hard to motivate the students with conflicting responsibilities. Team leads may act more like a cheerleader than an overseer. It can be hard to find the right balance between micromanaging the students and giving them too much free reign - to help them be productive without being too pushy.
-
 </aside>
 
 ### **Week 5**
@@ -193,7 +180,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 📌 After the week 5 meeting, teams should have a draft the Study Information and Design Plan sections of the protocol.
-
 </aside>
 
 ### **Week 6**
@@ -227,7 +213,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 📌 After the week 7 meeting, teams should have completed an entire first screening of the all the articles in the database.
-
 </aside>
 
 ### **Week 8**
@@ -245,7 +230,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 📌 After the week 8 meeting, teams should have a content-complete pre-registration or protocol.
-
 </aside>
 
 ### **Week 9**
@@ -264,7 +248,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 📌 After the week 9 meeting, teams should have uploaded their pre-registration or protocol and discussed any future plans for the project.
-
 </aside>
 
 ### **Week 10**
@@ -279,7 +262,6 @@ CVI administrative staff, with guidance from Lane Library staff, will work with 
 
 <aside>
 📌 By the end of week 10, teams should have a complete database of twice-screened article data, a public protocol or pre-registration, and a plan for if/how they will continue the project in the future.
-
 </aside>
 
 ---
