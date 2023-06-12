@@ -5,7 +5,7 @@ There are several ways you can choose to share your protocol - or study plan.
 ## **Sharing as Pre-Registration**
 
 <aside>
-➕ **Pros:** This is the most ‘official’-looking of the options; also the pre-registration will be associated with it’s own, referencable, DOI.  
+➕ **Pros:** This is the most ‘official’-looking of the options; also the pre-registration will be associated with it’s own, referencable, DOI.<br>
 </aside>
 
 <aside>
@@ -24,7 +24,7 @@ There are several ways you can choose to share your protocol - or study plan.
 ## **Sharing as Public Protocol**
 
 <aside>
-➕ **Pros:** Does not imply the same level of commitment as a pre-registration, but does look more professional than the shared GoogleDoc. Can be referenced by the OSF project’s DOI.  
+➕ **Pros:** Does not imply the same level of commitment as a pre-registration, but does look more professional than the shared GoogleDoc. Can be referenced by the OSF project’s DOI.<br>
 </aside>
 
 <aside>
@@ -45,7 +45,7 @@ Examples: [https://osf.io/d8ewm/](https://osf.io/d8ewm/) [https://osf.io/zcrju/]
 ## Sharing as a **Time-stamped Public Protocol on GoogleDocs**
 
 <aside>
-➕ **Pros:** Does not imply the same level of commitment as a public protocol or pre-registration. If students later decide they do not want to be associated with the project, the protocol can simply be taken down. Protocols or pre-registrations on OSF cannot easily be taken down.  
+➕ **Pros:** Does not imply the same level of commitment as a public protocol or pre-registration. If students later decide they do not want to be associated with the project, the protocol can simply be taken down. Protocols or pre-registrations on OSF cannot easily be taken down.<br>
 </aside>
 
 <aside>
